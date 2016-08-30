@@ -10,7 +10,7 @@ attachments :
 *** =video_link
 //player.vimeo.com/video/154783078
 
---- type:MultipleChoiceExercise lang:python xp:50 skills:1
+--- type:BokehServerExercise lang:python xp:50 skills:1
 ## A really bad movie
 
 Have a look at the plot that showed up in the viewer to the right. Which type of movies have the worst rating assigned to them?
